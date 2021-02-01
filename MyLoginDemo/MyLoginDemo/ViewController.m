@@ -6,7 +6,7 @@
 //
 
 #import "ViewController.h"
-#import "MyLoginSDK/MyLogin.h"
+#import "MyLogin.h"
 
 @interface ViewController ()
 
